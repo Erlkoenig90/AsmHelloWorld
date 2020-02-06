@@ -1,0 +1,4 @@
+*.o
+test32
+test64
+testarm
